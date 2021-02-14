@@ -7,8 +7,9 @@
 ### Stuff I'm working on right now:
 
 #### [Stereo For Discord](https://github.com/dylandotjava/stereo-for-discord)
-* This is a Discord Plugin that allows users to unlock Opus Voice's true potential in discord-
-* by enabling higher bitrates, stereo audio and silky smooth voice connections that you can *fall asleep t-* 💤💤💤
+* This is a Discord Plugin that allows users to unlock Opus Voice's true potential in discord by
+* enabling higher bitrates, stereo audio and glitchless silky smooth voice connections that you can *fall asleep t-* 💤
+* I'm working on this regularly, Finding new ways to support newer versions of Discord with even *silkier* connections.
 
 #### [Server Plugins (in heavy development)](https://github.com/ServerPlugins)
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
