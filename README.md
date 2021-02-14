@@ -12,6 +12,10 @@
 
 #### [Server Plugins (in heavy development)](https://github.com/ServerPlugins)
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
-* I'm making an ultra-light-weight all-in-one style plugin for staff utility,
-* A MySQL Economy that asynchronously uses an external API for getting/setting
-* Full PlaceHolder support for all parts of any ServerPlugin
+* Some of the things I'm making:
+* An ultra-light-weight all-in-one style plugin for staff utility,
+* A game-core esque plugin that handles just about anything you'd like it to using ultra efficient methods,
+* A MySQL Economy that asynchronously uses an external ServerPlugins API for getting/setting,
+* Auto-Updates for all plugins with GitHub (opt-in/opt-out)
+* Full PlaceHolder support for all parts of any ServerPlugin,
+* And many more things I have yet to think of :)
