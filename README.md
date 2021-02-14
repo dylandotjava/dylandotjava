@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello!
 
 ### I'm Dylan, A 17 year old Java & JS Developer from Wales.
 
@@ -12,5 +12,6 @@
 
 #### [Server Plugins (in heavy development)](https://github.com/ServerPlugins)
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
-* I'm making an ultra-light-weight all-in-one style plugin for staff utility, 
-* A MySQL Economy, Placeholder handlers, Title supports, etc etc. Possibilities are pretty much endless.
+* I'm making an ultra-light-weight all-in-one style plugin for staff utility,
+* A MySQL Economy that asynchronously uses an external API for getting/setting
+* Full PlaceHolder support for all parts of any ServerPlugin
