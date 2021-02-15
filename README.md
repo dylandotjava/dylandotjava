@@ -1,6 +1,6 @@
 # Hello!
 
-### I'm Dylan, A 17 year old Java & JS Developer from Wales.
+### I'm Dylan, A Java & JS Developer from Wales.
 
 ### [Incase you were wondering, I have a discord](https://discord.gg/42qTpxYN2f)
 
