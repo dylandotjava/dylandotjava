@@ -9,7 +9,7 @@
 
 ### Stuff I'm working on right now:
 
-#### 💻 [Server Plugins (in heavy development)](https://github.com/ServerPlugins) 💥
+#### 💻 [Server Plugins (in heavy development)](https://github.com/DDJThings/ServerCore) 💥
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
 * Some of the things I'm making:
 * An ultra-light-weight all-in-one style plugin for staff utility,
@@ -20,7 +20,7 @@
 * And many more things I have yet to think of :)
 
 
-#### 🔊 [Stereo For Discord](https://github.com/dylandotjava/stereo-for-discord) 🔊
+#### 🔊 [Stereo For Discord](https://github.com/DDJThings/Stereo-for-discord) 🔊
 * This is a Discord Plugin that allows users to unlock Opus Voice's true potential in discord by
 * enabling higher bitrates, stereo audio and glitchless silky smooth voice connections that you can *fall asleep t-* 💤
 * I'm working on this regularly, Finding new ways to support newer versions of Discord with even *silkier* connections.
