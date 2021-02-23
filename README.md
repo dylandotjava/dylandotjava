@@ -1,12 +1,5 @@
-# Hello!
-
-### I'm Dylan, 
-#### A Java ☕ & JS 🌐 Developer from Wales.
-
-#### I'm most fluent in Java.
-
------------------
-
+<h1 align="center">Hello, I am Dylan</h1>
+<h3 align="center">A Java ☕ and JavaScript 🌐 developer from Wales.</h3>
 ### Stuff I'm working on right now:
 
 #### 💻 [Server Plugins (in heavy development)](https://github.com/DDJThings/ServerCore) 💥
