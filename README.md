@@ -3,6 +3,11 @@
 
 ### Stuff I'm working on right now:
 
+#### 💻 [Bexwing (Java Developer)](https://github.com/Bexwing/docs) 💥
+* Bexwing is a Minecraft Community that I volunteer to do Java Development for.
+* I've ran servers since 2015, 99% of which have been very successful,
+* I specicialise in gamemodes like **Skyblock**, **Factions** and **PVP Types**.
+
 #### 💻 [Server Plugins (in heavy development)](https://github.com/DDJThings/ServerCore) 💥
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
 * Some of the things I'm making:
