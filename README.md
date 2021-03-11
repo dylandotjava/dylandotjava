@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Dylan 👋</h1>
-<h3 align="center">A Java ☕ and JavaScript 🌐 developer from Wales.</h3>
+<h3 align="center">A Java ☕ Developer from Wales.</h3>
 
 ### Stuff I'm working on right now:
 
