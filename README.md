@@ -17,4 +17,4 @@
 #### 🔊 [Stereo For Discord](https://github.com/DDJThings/Stereo-for-discord) 🔊
 * This is a Discord Plugin that allows users to unlock Opus Voice's true potential in discord by
 * enabling higher bitrates, stereo audio and glitchless silky smooth voice connections that you can *fall asleep t-* 💤
-* I'm working on this regularly, Finding new ways to support newer versions of Discord with even *silkier* connections.
+* I'm no longer maintaining this so the latest release is as-is
