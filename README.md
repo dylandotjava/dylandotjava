@@ -3,11 +3,10 @@
 
 ### My Projects:
 
-- [Server Plugins](https://github.com/dylandotjavaorg/serverplugins)
-  -  ServerPlugins is a project of mine to create my own server-in-a-box plugin set.
-  -  The plugins are made in Kotlin, With Java variations available down the line.
-  -  They're made to use as little resources as possible without sacrificing usability.
-  -  Current Plugins include: [ServerCore](https://github.com/dylandotjavaorg/servercore), [ServerEconomy](https://github.com/dylandotjavaorg/servereconomy), [ServerAPI](https://github.com/dylandotjavaorg/serverapi), [ServerPunishments](https://github.com/dylandotjavaorg/serverpunishments) and more yet to come.
+- [NOREVIVE](https://github.com/NOREVIVE)
+  -  NOREVIVE is a team of people (me included) who've set out to make Kotlin open-source alternatives to popular mc-java plugins.
+  -  The plugins are made with low resource availability in mind, so rest assured it'll work just fine on any setup.
+  -  Current Plugins include: [NOCORE](https://github.com/norevive/nocore), [NOMONEY](https://github.com/norevive/nomoney), [NOBANS](https://github.com/norevive/nobans).
   -  These are all in early stages of development, with test branches coming out in the near future.
 
 I have more projects yet to add, so I'll try my best to hurry up and make something.
