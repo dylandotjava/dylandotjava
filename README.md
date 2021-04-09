@@ -3,7 +3,7 @@
 
 ### Stuff I'm working on right now:
 
-#### 💻 [Server Plugins (in heavy development)](https://github.com/DDJThings/ServerCore) 💥
+#### 💻 [Server Plugins (in heavy development)](https://github.com/DDJThings/ServerCore)
 * ServerPlugins is a (soon to be) public Open-Source minecraft plugin hub.
 * Some of the things I'm making:
 * An ultra-light-weight all-in-one style plugin for staff utility,
