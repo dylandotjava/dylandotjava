@@ -21,8 +21,6 @@
 ## [Stereo For Discord](https://github.com/dotdylan/stereofordiscord)
   -  Stereo for discord was a project of mine that added the possibility of panning to Discord's Voice Chat.
   -  The plugin (until I released mine) was sought after and hard to come by, Credits go to Ryan.js for the original.
-  -  A month or so after my plugin was released, discord got their act together (not because of me) to fix their voice modules, which completely patched all clients and plugins that abused the issue that enabled panning in discord voice channels.
-  -  I was happy, not because of it being broken but seeing the toxic community of discord audio guys fade into obscurity.
-
+  -  A month or so after my plugin was released, discord got their act together (not because of me) to fix their voice modules, which completely patched all clients and plugins that abused the issue that enabled panning in discord voice channels and in turn, made their stable voice better.
 
 I have more projects yet to add, so I'll try my best to hurry up and make something.
