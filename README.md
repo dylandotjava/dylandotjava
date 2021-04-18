@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/dotDylan?template=classic&activity=1&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&activity.limit=5&activity.days=30&activity.filter=all&activity.visibility=all&activity.timestamps=true&config.timezone=Europe%2FLondon)
+
