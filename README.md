@@ -1,1 +1,1 @@
-
+![Metrics](https://metrics.lecoq.io/dotDylan?template=classic&introduction=1&lines=1&activity=1&projects=1&isocalendar=1&isocalendar.duration=half-year&introduction.title=true&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.days=20&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FLondon&config.twemoji=true)
